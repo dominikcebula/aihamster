@@ -1,0 +1,3 @@
+AIHamster is a visual environment for embodied intelligence bot that connects to the environment using standard network socket. Data transferred by the socket contains information about surrounding world. Bot exists in this world and has to learn about the rules fast enough to survive. World introduced by visual environment contains different objects, bot can interact with those object. Every action made on the object produce some reaction that can be positive or negative for the bot, too many bad bot decision will lead to death. The main objective of the bot is to survive and to create the most friendly environment.
+
+Please visit my personal website http://dominikcebula.pl/
